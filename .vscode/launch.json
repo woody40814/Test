@@ -1,0 +1,28 @@
+{
+    // 使用 IntelliSense 瞭解相關屬性。 
+    // 懸停以檢視現有屬性的描述。
+    // 欲瞭解更多資訊，請訪問: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.1 /ironman2018",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+
+      {
+        "type": "chrome",
+        "request": "launch",
+        "name": "Launch Chrome against localhost",
+        "url": "http://localhost:8080",
+        "webRoot": "${workspaceFolder}/index.html"
+      },
+
+    ]
+  }

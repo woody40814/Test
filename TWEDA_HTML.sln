@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TWEDA_HTML", ".", "{E970BE91-B093-4D46-8DDF-94CBCE91CC73}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_14934"
+		Debug.AspNetCompiler.PhysicalPath = "..\TWEDA_HTML\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14934\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_14934"
+		Release.AspNetCompiler.PhysicalPath = "..\TWEDA_HTML\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14934\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "14934"
+		SlnRelativePath = "..\TWEDA_HTML\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E970BE91-B093-4D46-8DDF-94CBCE91CC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E970BE91-B093-4D46-8DDF-94CBCE91CC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A24A07E-6AF9-45CA-AD29-6E010BF70313}
+	EndGlobalSection
+EndGlobal
